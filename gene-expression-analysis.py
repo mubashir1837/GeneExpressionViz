@@ -24,7 +24,7 @@ plt.figure(figsize=(8, 6))
 sns.heatmap(df.corr(), annot=True, cmap="coolwarm", fmt=".2f")
 plt.title("Gene Expression Heatmap")
 plt.savefig("gene_expression_heatmap.png", dpi=300, bbox_inches="tight")
-plt.show()  # Ensure it displays in VS Code
+plt.show()  
 
 # 📦 2️⃣ Boxplot
 plt.figure(figsize=(8, 6))
