@@ -123,10 +123,11 @@ This project is open-source under the **MIT License**.
 
 ## **💌 Contact**
 **Mubashir Ali**  
-📧 [Your Email]  
-🌐 [Your Website]  
+📧 [Email](mailto:mubashirali1837@gmail.com)  
+🌐 [Portfolio Website](https://mubashir-a.vercel.app) 
+🌐 [Website](https://codewithbismillah.vercel.app) 
 🎥 **YouTube:** [CodeWithBismillah](https://www.youtube.com/@CodeWithBismillah)  
-👉 **LinkedIn:** [MubashirAli](https://www.linkedin.com/in/mubashirali)  
+👉 **LinkedIn:** [MubashirAli](https://www.linkedin.com/in/mubashirali3)  
 
 ---
 
